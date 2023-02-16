@@ -73,3 +73,5 @@ const Genres = ({
 }
 
 export default Genres
+
+// Genre
