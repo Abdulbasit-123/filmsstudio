@@ -25,3 +25,5 @@ const SingleContent = ({
 }
 
 export default SingleContent
+
+// Single content
