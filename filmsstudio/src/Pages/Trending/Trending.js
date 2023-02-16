@@ -46,3 +46,4 @@ const Trending = () => {
 }
 
 export default Trending
+// Trending
