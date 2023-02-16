@@ -33,3 +33,5 @@ const CustomPagination = ({ setPage,numOfPages = 10 }) => {
 }
 
 export default CustomPagination
+
+// Page
