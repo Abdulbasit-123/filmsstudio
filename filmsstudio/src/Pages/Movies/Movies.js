@@ -60,3 +60,4 @@ const Movies = () => {
 }
 
 export default Movies
+// Movies
